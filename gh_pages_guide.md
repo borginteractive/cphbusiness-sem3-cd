@@ -27,7 +27,7 @@ it for us.
 ## Setting up GitHub pages
 Before we get started, we need to have somewhere to store the website.
 For this exercise you should fork the following repository:
-[https://github.com/Jegp/cphbusiness-sem3-ci](https://github.com/Jegp/cphbusiness-sem3-ci)
+[https://github.com/Jegp/cphbusiness-sem3-cd](https://github.com/Jegp/cphbusiness-sem3-cd)
 
 This is a simple Ember Javascript project which is being by NodeJS<sup>1</sup>.
 When you execute the command `npm run build` it will take all the HTML, JavaScript and
